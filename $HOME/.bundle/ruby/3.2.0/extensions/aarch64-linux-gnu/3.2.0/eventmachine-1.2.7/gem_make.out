@@ -1,0 +1,23 @@
+current directory: /mnt/c/Users/shree/OneDrive/Desktop/academicpages.github.io/$HOME/.bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby3.2 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/shree/OneDrive/Desktop/academicpages.github.io/$HOME/.bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241110-751-j8mw1g sitelibdir\=./.gem.20241110-751-j8mw1g clean
+make: Warning: File 'Makefile' has modification time 0.0075 s in the future
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/shree/OneDrive/Desktop/academicpages.github.io/$HOME/.bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241110-751-j8mw1g sitelibdir\=./.gem.20241110-751-j8mw1g
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /mnt/c/Users/shree/OneDrive/Desktop/academicpages.github.io/$HOME/.bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241110-751-j8mw1g sitelibdir\=./.gem.20241110-751-j8mw1g install
+make: Warning: File 'fastfilereaderext.so' has modification time 0.0076 s in the future
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20241110-751-j8mw1g
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/shree/OneDrive/Desktop/academicpages.github.io/$HOME/.bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241110-751-j8mw1g sitelibdir\=./.gem.20241110-751-j8mw1g clean
