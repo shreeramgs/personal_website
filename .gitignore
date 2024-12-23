@@ -12,3 +12,5 @@ Gemfile.lock
 node_modules
 package-lock.json
 venv/
+.elasticbeanstalk/config.yml
+.vscode/settings.json

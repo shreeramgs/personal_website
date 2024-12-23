@@ -6,5 +6,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-At White Hack Labs, my role as a Software Engineer intertwines my Master's in Data Science with a focus on developing robust data pipelines.
+At White Hack Labs, my role as a Software Engineer intertwines my Master's in Data Science with a focus on developing robust data pipelines. Currently I am working on hackergpt.app
 ------
