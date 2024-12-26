@@ -8,6 +8,8 @@ group :jekyll_plugins do
   gem "jekyll-sitemap", ">= 0"
   gem 'base64', '~> 0.2.0'
   gem 'faraday-retry'
+  gem 'jekyll-livereload'
+
 
 
 

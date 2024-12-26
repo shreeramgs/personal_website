@@ -1,10 +1,17 @@
 ---
 permalink: /
-title: "Shreeram Gudemarnahalli Subramanya: Software Engineer @ White Hack Labs | Volunteer Research Assistant @ Center for Unified Biometrics Lab (University at Buffalo)"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-At White Hack Labs, my role as a Software Engineer intertwines my Master's in Data Science with a focus on developing robust data pipelines. Currently I am working on hackergpt.app
-------
+ (check out (hackergpt.app))
+
+I am a software engineer at [White Hack Labs, New York](https:whitehacklabs.com),currently working on building agentic frameworks for cybersecurity use cases ([HackerGPTLite](hackergpt.app)) ."I completed my Master's in Data Science from the [University at Buffalo, Buffalo,NY](https://www.buffalo.edu/) and my undergraduate studies at [The Nation Institute of Engineering, Mysore,KA](https://nie.ac.in/).
+
+I am passionate about exploring topics in AI, Computer Vision, Cyber Security and Data Science. I previously, he worked as a a research assistant at [Center for Unified Biometrics Lab](https://haas.berkeley.edu/), focusing on Biometrics, aiming to address challenges in fingerpint spoof detection.
+
+My most recent research contribution involved creating the novel dataset [GestSpoof](https://www.buffalo.edu/cubs/research/datasets/gestspoof-dataset.html) which is now publicly available [cubs-gestspoof@buffalo.edu](cubs-gestspoof@buffalo.edu). .  
+
+Schedule a meeting:[Sunday Service](https://calendly.com/shreeramgs/video-interview)
