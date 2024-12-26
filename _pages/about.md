@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Shreeram Gudemarnahalli Subramanya: Software Engineer @ White Hack Labs | Volunteer Research Assistant @ Center for Unified Biometrics Lab (University at Buffalo)"
 author_profile: true
 redirect_from: 
   - /about/
