@@ -2,6 +2,7 @@
 title: 'A Guide for Data Science Projects in 2023'
 date: 06-16-2023
 permalink: /posts/roadmap/
+category:
 tags:
   - Data Science
   - Roadmap
@@ -9,8 +10,10 @@ tags:
 ---
 
 A Beginners Guide to Data Science
-===============
+------
+
 This post explains defining a problem statement and performing the necessary tasks to provide meaningful results. A walkthrough on a structured approach to ensure the successful completion of a data science project.
+
 
 # How to Start?
 

@@ -12,7 +12,7 @@ excerpt: >
   <br/>
   - Widely used datasets lack temporal information, prompting the creation of a new dataset to explore distortion-based spoof detection.
   <br/>
-  <img src='/images/spoof_fingerprints.png' alt='Fingerprint Spoof Illustration' href='https://ieeexplore.ieee.org/xpl/conhome/10581880/proceeding'>
+  <img src='/images/gestspoof.jpg' alt='Fingerprint Spoof Illustration' href='https://ieeexplore.ieee.org/xpl/conhome/10581880/proceeding'>
 date: "2024-07-01"
 venue: >
   2024 IEEE 18th International Conference on Automatic Face and Gesture Recognition (FG)
