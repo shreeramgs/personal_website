@@ -1,0 +1,34 @@
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    // Find the element with the 'title' attribute
+    document.querySelector('[title="HackerGPT Lite"]').addEventListener('click', function (e) {
+      e.preventDefault(); // Prevent default navigation or interaction
+      window.location.href = "https://whitehacklabs.com/blog/white-hat-vs-black-hat/";
+    });
+  });
+</script>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+</head>
+<body>
+    <!-- Link to external site -->
+    <h1>
+        <a href="{{ page.permalink }}" target="_blank" rel="noopener">
+            {{ page.title }}
+        </a>
+    </h1>
+
+    <!-- Optional Embedded Video -->
+    <iframe width="560" height="315" 
+            src="https://www.youtube.com/embed/W53Vt-Evrvs?start=11" 
+            title="HackerGPT Lite" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+    </iframe>
+</body>
+</html>
