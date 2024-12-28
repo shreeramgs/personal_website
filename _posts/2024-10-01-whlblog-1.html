@@ -1,13 +1,9 @@
 <script>
-  document.addEventListener('DOMContentLoaded', function () {
-    // Find the element with the 'title' attribute
-    document.querySelector('[title="HackerGPT Lite"]').addEventListener('click', function (e) {
-      e.preventDefault(); // Prevent default navigation or interaction
-      window.location.href = "https://whitehacklabs.com/blog/white-hat-vs-black-hat/";
-    });
+  document.querySelector('h1 a').addEventListener('click', function (e) {
+    e.preventDefault(); // Prevent the default navigation
+    window.location.href = "https://whitehacklabs.com/blog/white-hat-vs-black-hat/";
   });
 </script>
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -32,3 +28,4 @@
     </iframe>
 </body>
 </html>
+
