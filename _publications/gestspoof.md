@@ -1,9 +1,11 @@
 ---
-title: "Gesture Based Spatio-Temporal Representation Learning for Robust Fingerprint Presentation Attack Detection"
+title: "Gesture Based Spatio-Temporal Representation Learning for Robust Fingerprint Presentation Attack Detection <br/>
+  <img src='/images/gestspoof.jpg' alt='Fingerprint Spoof Illustration' href='https://ieeexplore.ieee.org/xpl/conhome/10581880/proceeding'>"
 collection: publications
 category: manuscripts
 permalink: /publication/gestspoof
 excerpt: >
+
   - Fingerprint spoof attacks are highly common and pose a significant threat to biometric security systems.
   <br/>
   - Existing methods primarily focus on image classification, ignoring the potential benefits of temporal learning.
@@ -12,7 +14,6 @@ excerpt: >
   <br/>
   - Widely used datasets lack temporal information, prompting the creation of a new dataset to explore distortion-based spoof detection.
   <br/>
-  <img src='/images/gestspoof.jpg' alt='Fingerprint Spoof Illustration' href='https://ieeexplore.ieee.org/xpl/conhome/10581880/proceeding'>
 date: "2024-07-01"
 venue: >
   2024 IEEE 18th International Conference on Automatic Face and Gesture Recognition (FG)
