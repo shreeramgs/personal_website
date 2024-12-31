@@ -18,24 +18,21 @@ My most recent research contribution involved creating the novel dataset [GestSp
 Highlights:
 
 <a href="/publication/gestspoof" rel="permalink">
-    Gesture Based Spatio-Temporal Representation Learning for Robust Fingerprint Presentation Attack Detection 
-    <br>
     <img src="/images/GestSpoof_Dataset_Final_Poster_page-0001.jpg" 
          alt="Fingerprint Spoof Illustration" 
          style="width: 150px; height: 150px; object-fit: cover;">
 </a>
 
 
-<a href="https://brosdocs.net/fg2024/027.pdf" rel="permalink">
-    <img src="/images/gestspoof.jpg" 
-         alt="GestSpoof Paper" 
-         style="width: 150px; height: 150px; object-fit: cover;">
+<a href="https://github.com/shreeramgs/E-wal" rel="permalink">
+    <img src="/images/Ewal.png" 
+         alt="Ewal" 
+         style="width: 150px; height: 150px;">
 </a>
 
 <a href="http://hackergpt.app/auth/login">
     <img src="/images/hackerGPT_landingpage.png" 
-         alt="HackerGPT Landing Page" 
-         style="width: 150px; height: 150px; object-fit: cover;">
+         alt="HackerGPT Landing Page">
 </a>
 
 
