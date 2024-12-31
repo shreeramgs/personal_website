@@ -184,6 +184,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  project:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -224,6 +227,14 @@ defaults:
       comment: true
   - scope:
       path: ""
+      type: project
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  - scope:
+      path: ""
       type: talks
     values:
       layout: talk
@@ -246,9 +257,9 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-  - jekyll-livereload
+  # - jekyll-livereload
 # Livereload Configuration
-livereload: true
+# livereload: true
 # Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
