@@ -45,29 +45,9 @@ author:
   stackoverflow    :
 
   # Social media
-  facebook         :
-  flickr           :
-  foursquare       :
-  goodreads        :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
   linkedin         : "shreeramsubramanya/"
-  mastodon         :
   medium           : "https://medium.com/@shreeramgs666"
-  pinterest        :
-  soundcloud       :
-  steam            :
-  telegram         :
-  tumblr           :
   twitter          : "shreeramgs666?s=08"
-  vine             :
-  weibo            :
-  wikipedia        :
-  xing             :
-  youtube          :
-  zhihu            :
 
 # Publication Category
 publication_category:
@@ -123,7 +103,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "shreeramgs666"
 facebook:
   username               :
   app_id                 :
@@ -267,7 +247,8 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - jekyll-livereload
-
+# Livereload Configuration
+livereload: true
 # Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
