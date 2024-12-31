@@ -1,6 +1,7 @@
 ---
-title: "Chest x_ray<br/><img src='/images/cnn_project.png'>"
-excerpt: "GestSpoof: Gesture Based Spatio-Temporal Representation Learning For Robust Fingerprint Presentation Attack Detection. - FG 2024"
+title: "pneumonia_detector(Chest x_ray CNN)<br/><img src='/images/cnn_project.png'>"
+excerpt: "This application uses artificial neural network as a filter to classify the image. The output of the neural network is scaled so as to get the proper sizes of the images that are classified and can be used by radiologists to predict the abnormality up to a great extent.    
+"
 collection: project
 ---
 # x_ray
@@ -18,7 +19,6 @@ in this line of code.
 ```sh
    pip install mxnet-cu101
    pip install gluoncv
-   
 ```
 tutoials:
 

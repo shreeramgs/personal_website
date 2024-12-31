@@ -4,8 +4,6 @@ excerpt: "Payment Web Application"
 collection: project
 ---
 
-# E-wal
-Payment Web Application
 **E-Wal** is a prototype web application that enables users to convenient manage your money on the go. With E-Wal, you can easily store and manage your money, pay bills, and make online purchases without the need for cash or cards. Our platform provides instant access to your funds and enables you to make transactions with just a few clicks, anytime, and anywhere. E-Wal is packed with powerful features, including the ability to link your bank accounts. You can also transfer funds to other users of the platform, or receive money from them. Our platform also enables you to track your transactions, view your account balance, and manage your budget with ease.
 
 # Getting Started:
