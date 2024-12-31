@@ -1,6 +1,6 @@
 ---
 title: "Data-Challenge-2022-UB"
-excerpt: "GestSpoof: Gesture Based Spatio-Temporal Representation Learning For Robust Fingerprint Presentation Attack Detection. - FG 2024"
+excerpt: "Accurate intervention of suicidal ideation and behavior in depressed people can help them get the therapeutic help and care they need, which can save their lives in many scenarios. The goal is to precisely anticipate data in order to avert incidents such as suicide and to assist people in overcoming depression"
 collection: project
 ---
 

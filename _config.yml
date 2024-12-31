@@ -64,7 +64,7 @@ breadcrumbs              : false
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled"
-talkmap_link             : false
+# talkmap_link             : false
 comments:
   provider               :
   disqus:
@@ -187,9 +187,9 @@ collections:
   project:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -233,13 +233,13 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:

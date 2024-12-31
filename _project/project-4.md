@@ -1,6 +1,6 @@
 ---
 title: "US Rent Price Prediction<br/><img src='/images/user-interface_project4.png'>"
-excerpt: "GestSpoof: Gesture Based Spatio-Temporal Representation Learning For Robust Fingerprint Presentation Attack Detection. - FG 2024"
+excerpt: "The goal of the project is to analyze the rental postings across the United States and provide actionable insights to the users in form of graphs and intuitive user interface."
 collection: project
 ---
 # US Rent Price Prediction 

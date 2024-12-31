@@ -1,6 +1,6 @@
 ---
 title: "E-wal<br/><img src='/images/Ewal.png'>"
-excerpt: "GestSpoof: Gesture Based Spatio-Temporal Representation Learning For Robust Fingerprint Presentation Attack Detection. - FG 2024"
+excerpt: "Payment Web Application"
 collection: project
 ---
 
@@ -10,6 +10,9 @@ Payment Web Application
 
 # Getting Started:
 Clone the repository to your local machine.
+```sh
+https://github.com/shreeramgs/E-wal.git
+```
 Install the necessary dependencies such as express,ejs,path,express-session,cookie-parser,body-parser,sweetalert using npm install
 Start you web application by running index.js file (node index.js)
 

@@ -17,21 +17,20 @@ My most recent research contribution involved creating the novel dataset [GestSp
 ---
 Highlights:
 
-<a href="/publication/gestspoof" rel="permalink">
-    <img src="/images/GestSpoof_Dataset_Final_Poster_page-0001.jpg" 
-         alt="Fingerprint Spoof Illustration" 
-         style="width: 350px; height: 350px; object-fit: cover;">
-</a>
-<a href="http://hackergpt.app/auth/login">
-    <img src="/images/hackerGPT_landingpage.png" 
-         alt="HackerGPT Landing Page">
-</a>
-<a href="https://github.com/shreeramgs/E-wal" rel="permalink">
-    <img src="/images/Ewal.png" 
-         alt="Ewal" 
-         style="width: 350px; height: 350px;">
-</a>
-
-
-
-
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px;">
+    <a href="/publication/gestspoof" rel="permalink">
+        <img src="/images/GestSpoof_Dataset_Final_Poster_page-0001.jpg" 
+             alt="Fingerprint Spoof Illustration" 
+             style="width: 100%; height: auto; object-fit: cover;">
+    </a>
+    <a href="http://hackergpt.app/auth/login">
+        <img src="/images/hackerGPT_landingpage.png" 
+             alt="HackerGPT Landing Page" 
+             style="width: 100%; height: auto;">
+    </a>
+    <a href="https://github.com/shreeramgs/E-wal" rel="permalink">
+        <img src="/images/Ewal.png" 
+             alt="Ewal" 
+             style="width: 100%; height: auto; object-fit: cover;">
+    </a>
+</div>
